@@ -1,5 +1,5 @@
 # Analisis Regresi Linier Berganda
-Tool penghitungan otomatis data statistik persamaan Regresi Linear Berganda 
+Tools penghitungan otomatis data statistik persamaan Regresi Linear Berganda 
 
 ## Requirements
 * Python 3+
